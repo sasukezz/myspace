@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kangpet",
+    "name": "KangPet",
+    "image": "/assets/kangpet.webp",
+    "link": {
+      "label": "Microsoft Store",
+      "href": "https://apps.microsoft.com/"
+    },
+    "question": "工具免费 + 教程收费模式在桌宠领域是否能走通？",
+    "hypothesis": "开放生态 + 教程收费比单纯卖软件更容易形成增长。",
+    "experiment": "开发支持自定义形象、自主行为、眼神追踪及动画编辑的桌宠，并上线 Microsoft Store。",
+    "finding": [
+      "Vibecoding 项目若没有先发优势，要付出很高的营销成本。",
+      "若公开构建并商业化，需要重度投入研发和维系原始用户，否则容易被竞品抢走。",
+      "Vibecoding 用户的付费意愿较低。"
+    ],
+    "next": "探索 Agent 构建，赋予宠物灵魂。"
+  },
+  {
+    "id": "boxshot",
+    "name": "Boxshot",
+    "image": "/assets/boxshot.webp",
+    "link": {
+      "label": "boxshot.dreamlive.site",
+      "href": "https://boxshot.dreamlive.site/"
+    },
+    "question": "AI 商拍是否可以模板化？",
+    "hypothesis": "工作流比模型本身更有价值。",
+    "experiment": "搭建无限画布、Agent、模板、批处理能力。",
+    "finding": ["形成稳定商拍流程，并获得付费验证。"],
+    "next": "提高商拍生图的自动化程度。"
+  },
+  {
+    "id": "itatank",
+    "name": "ItaTank",
+    "image": "/assets/itatank.webp",
+    "link": {
+      "label": "Microsoft Store",
+      "href": "https://apps.microsoft.com/"
+    },
+    "question": "AI 能否降低 3D 场景创作门槛？",
+    "hypothesis": "程序化生成 + AI 导入可以提升普通用户创作体验。",
+    "experiment": "开发支持 GLB/PLY 导入、程序化底床、透明桌面的赛博鱼缸。",
+    "finding": ["用户更关注自由度，而非单个模型质量。"],
+    "next": "结合 Gaussian Splatting 与 AI 世界生成。"
+  },
+  {
+    "id": "sosoul",
+    "name": "Sosoul",
+    "image": "/assets/sosoul.webp",
+    "link": {
+      "label": "sosoul.dreamlive.site",
+      "href": "https://sosoul.dreamlive.site/"
+    },
+    "question": "情绪价值类 AI 工具是否存在轻量商业化机会？",
+    "hypothesis": "玄学 + AI 可以提高分享率。",
+    "experiment": "构建趣味排盘工具。",
+    "finding": ["产品完成验证，但营销与合规仍需探索。"],
+    "next": "寻找新的内容传播方式。"
+  }
+]

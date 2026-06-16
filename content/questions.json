@@ -1,0 +1,48 @@
+[
+  {
+    "id": "software-engineer",
+    "title": "AI 是否能够真正参与软件开发？",
+    "subtitle": "长期研究问题",
+    "why": "软件开发正在从写代码转向设计系统、拆解问题、验证假设和维护上下文。我关注 AI 是否能进入完整工程流程，而不只是补全代码片段。",
+    "status": "长期跟踪 Claude Code、Codex、Cursor 与智能编程工作流。",
+    "articles": [],
+    "experiments": ["KangPet", "Boxshot"]
+  },
+  {
+    "id": "workflow",
+    "title": "AI 是否能够重构传统工作流？",
+    "subtitle": "长期研究问题",
+    "why": "模型能力很快商品化，真正的差异来自工作流、知识、自动化与组织方式。",
+    "status": "持续研究 Agent、MCP、自动化、研究系统与内容系统。",
+    "articles": [],
+    "experiments": ["研究系统", "内容系统"]
+  },
+  {
+    "id": "ai-3d",
+    "title": "AI 是否能够降低 3D 创作门槛？",
+    "subtitle": "长期研究问题",
+    "why": "3D 创作长期被工具、资产、流程和性能门槛限制。AI 可能把创作重点从操作迁移到表达与系统编排。",
+    "status": "研究 Meshy、Tripo、Gaussian Splatting、TouchDesigner 与 AI 世界生成。",
+    "articles": [
+      {
+        "label": "AI生成3D决赛圈",
+        "href": "http://xhslink.com/o/7Jd2QHT7H9T"
+      }
+    ],
+    "experiments": ["ItaTank"]
+  },
+  {
+    "id": "content-os",
+    "title": "AI 是否能够成为内容操作系统？",
+    "subtitle": "长期研究问题",
+    "why": "内容生产不只是生成图文或视频，而是从选题、研究、知识沉淀、素材复用、发布到复盘的完整闭环。",
+    "status": "持续构建 ZZ2046、KB2046、CM2046 及外部内容生产管线。",
+    "articles": [
+      {
+        "label": "我发现了服装电商 AI 生图的试金石",
+        "href": "http://xhslink.com/o/5XaRx7XaQ4g"
+      }
+    ],
+    "experiments": ["Boxshot", "Typocard", "Cleanshot-lite"]
+  }
+]

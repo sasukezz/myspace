@@ -1,0 +1,64 @@
+[
+  {
+    "id": "research-os",
+    "name": "ZZ2046 + MI2046",
+    "label": "研究系统",
+    "description": "总项目与研究管线组合，用来管理研究方向、实验记录和复盘节奏。",
+    "image": "/assets/research-os.webp",
+    "details": [
+      "ZZ2046 作为总项目，对研究方向、实验和内容进行整体维护。",
+      "MI2046 作为研究管线，负责问题追踪、资料分析和实验记录。",
+      "研究结果会沉淀到知识库，并反向驱动新的工作流。"
+    ]
+  },
+  {
+    "id": "knowledge-os",
+    "name": "KB2046",
+    "label": "知识库",
+    "description": "跨项目索引知识、案例、流程和素材，让研究内容成为可复用资产。",
+    "image": "/assets/knowledge-os.webp",
+    "details": [
+      "KB2046 是知识库主体，供其他项目跨项目索引。",
+      "知识不是文章归档，而是可被工作流重新调用的上下文。"
+    ]
+  },
+  {
+    "id": "content-os",
+    "name": "CM2046 + Obsidian 工作台",
+    "label": "内容系统",
+    "description": "外部内容生产管线与本地知识工作台，连接选题、素材、写作和发布。",
+    "image": "/assets/content-os.webp",
+    "details": [
+      "自动或手动热点监控后进入队列分析。",
+      "CM2046 作为外部内容生产管线，共用 KB2046 中内容创作相关部分。",
+      "Obsidian 工作台用于本地写作、资料整理和内容草稿沉淀。",
+      "支持素材库沉淀、Canvas 导图生成与 AI 内容创作增强。"
+    ]
+  },
+  {
+    "id": "workflow-library",
+    "name": "RunningHub",
+    "label": "工作流/模板库",
+    "link": {
+      "label": "RunningHub",
+      "href": "https://www.runninghub.cn/user-center"
+    },
+    "description": "把可复用的提示词、模板、工作流和自动化流程沉淀为资产。",
+    "image": "/assets/workflow-library.webp",
+    "details": [
+      "沉淀 RunningHub 等平台上的工作流和模板。",
+      "面向未来的提示词、工作流、模板、书签、代码与数据集管理。"
+    ]
+  },
+  {
+    "id": "ai-toolkit",
+    "name": "自研工具",
+    "label": "AI 工具箱",
+    "description": "围绕图文卡片、视频录制、字幕、剪辑和发布构建日常使用的自研工具。",
+    "image": "/assets/ai-toolkit.webp",
+    "details": [
+      "Typocard：长文自适应排版，自动分割成多个卡片，支持趣味化润色与封面生成。",
+      "Cleanshot-lite：集成提词器、摄像头与屏幕双通道、虚拟背景、ASR 字幕、TTS 语音和关键帧。"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "提示词",
+    "title": "研究问题拆解提示词",
+    "description": "用于把一个模糊兴趣点拆解为可研究、可验证、可复盘的问题。",
+    "status": "计划中"
+  },
+  {
+    "type": "工作流",
+    "title": "AI 商拍生产流",
+    "description": "围绕 Boxshot 沉淀的模板化商拍流程，关注批处理、风格一致性和自动化程度。",
+    "status": "使用中"
+  },
+  {
+    "type": "模板",
+    "title": "研究笔记模板",
+    "description": "统一记录问题、假设、实验、发现和下一步，让研究笔记可以持续增长。",
+    "status": "使用中"
+  },
+  {
+    "type": "书签",
+    "title": "AI 3D 工具栈",
+    "description": "追踪 Meshy、Tripo、Gaussian Splatting、TouchDesigner 等工具与案例。",
+    "status": "收集中"
+  },
+  {
+    "type": "代码",
+    "title": "Content Pipeline Scripts",
+    "description": "内容队列、素材处理、字幕与发布辅助脚本的长期沉淀入口。",
+    "status": "计划中"
+  },
+  {
+    "type": "数据集",
+    "title": "AI 产品案例记录",
+    "description": "记录 AI 工具、产品、商业化路径和用户反馈的案例数据。",
+    "status": "收集中"
+  }
+]
