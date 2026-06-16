@@ -26,7 +26,9 @@ export function Experiments({ experiments }: ExperimentsProps) {
                   src={item.image}
                   alt={`${item.name} 截图`}
                   fill
-                  sizes="(min-width: 768px) 42vw, 100vw"
+                  sizes="(min-width: 1024px) 36vw, (min-width: 768px) 42vw, 100vw"
+                  quality={72}
+                  priority={index === 0}
                   className="object-contain p-4"
                 />
               </div>

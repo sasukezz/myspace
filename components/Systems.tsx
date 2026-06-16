@@ -78,6 +78,8 @@ export function Systems({ systems }: SystemsProps) {
                           alt={`${system.name} 截图`}
                           fill
                           sizes="(min-width: 1024px) 54vw, 100vw"
+                          quality={72}
+                          priority={index === 0}
                           className="object-contain p-3"
                         />
                       </div>

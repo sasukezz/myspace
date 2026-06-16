@@ -8,7 +8,6 @@ const navItems = [
   ["问题", "questions"],
   ["实验", "experiments"],
   ["系统", "systems"],
-  ["资产", "library"],
   ["笔记", "notes"],
   ["联系", "contact"]
 ];

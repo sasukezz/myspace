@@ -1,13 +1,11 @@
 import contact from "@/content/contact.json";
 import experiments from "@/content/experiments.json";
-import library from "@/content/library.json";
 import notes from "@/content/notes.json";
 import questions from "@/content/questions.json";
 import systems from "@/content/systems.json";
 import { Contact } from "@/components/Contact";
 import { Experiments } from "@/components/Experiments";
 import { Hero } from "@/components/Hero";
-import { Library } from "@/components/Library";
 import { Manifesto } from "@/components/Manifesto";
 import { Navigation } from "@/components/Navigation";
 import { Notes } from "@/components/Notes";
@@ -16,7 +14,6 @@ import { Systems } from "@/components/Systems";
 import type {
   ContactItem,
   Experiment,
-  LibraryItem,
   Note,
   Question,
   SystemNode
@@ -32,7 +29,6 @@ export default function Home() {
         <Questions questions={questions as Question[]} />
         <Experiments experiments={experiments as Experiment[]} />
         <Systems systems={systems as SystemNode[]} />
-        <Library items={library as LibraryItem[]} />
         <Notes notes={notes as Note[]} />
         <Contact items={contact as ContactItem[]} />
       </main>
